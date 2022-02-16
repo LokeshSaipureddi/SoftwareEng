@@ -51,3 +51,16 @@ Customer Management: Store details of all the customers ie. id, name, contact, e
 <li>	Modifying/Amending Ticket Details</li>
        </ul>  </li>
 </ui>
+
+## Reports:
+<ul>
+	<li>Requirements report containing the requirements from the stakeholders</li>
+	<li>Software requirement specifications</li>
+	<li>Customer Boarding Pass</li>
+	<li>Ticket booking status</li>
+	<li>Customer profile details</li>
+	<li>Passenger List based on each Flight for staff</li>
+	<li>Daily Flight Lists regarding flight details for staff</li>
+	<li>Testing reports containing the details of errorneous modules and non erroneous modules </li>
+	
+</ul>
